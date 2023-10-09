@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My TodoList</title>
     <link rel="stylesheet" href="style.css">
+
 </head>
 
 <body>
@@ -14,17 +15,19 @@
             <h2>TodoList <img src="../todo_list/assets/images/icon.png" alt="todo icon  " srcset=""></h2>
             <div class="row">
                 <input type="text" id="input-box" placeholder="Add Todo List">
-                <button type="submit">Add</button>
+                <button onclick="addTask()">Add</button>
             </div>
-            <ul class="todo-list">
+
+            <ul id="list-container">
+                <!-- <li class="checked">TodoList</li>
                 <li>TodoList</li>
-                <li>TodoList</li>
-                <li>TodoList</li>
+                <li>TodoList</li> -->
             </ul>
+
         </div>
 
     </div>
-
+    <script src="script.js"></script>
 </body>
 
 </html>

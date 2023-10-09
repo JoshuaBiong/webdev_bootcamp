@@ -83,3 +83,12 @@ ul li::before {
     top: 12px;
     left: 8px;
 }
+
+ul li.checked {
+    color: grey;
+    text-decoration: line-through;
+}
+
+ul li.checked::before {
+    background-image: url(./assets/images/checked.png);
+}
