@@ -73,7 +73,6 @@ ul li {
 
 ul li::before {
     content: '';
-    /* margin: 10px=; */
     position: absolute;
     height: 28px;
     width: 28px;
@@ -81,4 +80,6 @@ ul li::before {
     background-image: url(../todo_list/assets/images/unchecked.png);
     background-size: cover;
     background-position: center;
+    top: 12px;
+    left: 8px;
 }
