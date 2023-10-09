@@ -5,6 +5,10 @@ Web devi bootcamp by Anegla Yu
 -Hoping after this program I am able to land my first job as a web developer
 -Able to learn deep on how web works
 
+Making a Todo List web app now with pure HTML, CSS and javascript with local web storage
+
+
+
 Project Ideas as Web developer
  1. Tapok
        -tapos web site is we you can create a digital invitation for your birthday and able upload an photos and videos from th birthday party.
