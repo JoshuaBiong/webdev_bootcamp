@@ -5,7 +5,8 @@ Web devi bootcamp by Anegla Yu
 -Hoping after this program I am able to land my first job as a web developer
 -Able to learn deep on how web works
 
-Making a Todo List web app now with pure HTML, CSS and javascript with local web storage
+Making a Todo List web app now with pure HTML, CSS and javascript with local web storage === DONE!!
+ 
 
 
 
