@@ -1,14 +1,18 @@
 const inputBox = document.getElementById('input-box');
 const listContainer = document.getElementById('list-container');
 
-
 // adding task function
 
-function addTask() {
+function addTask(e) {
+
+
     let arr = [];
+
     if (inputBox.value === '') {
         alert("Write Something")
     } else {
+
+
         let li = document.createElement('li')
         li.innerHTML = inputBox.value
         listContainer.appendChild(li)
@@ -25,6 +29,7 @@ function addTask() {
 
 }
 // Checked and remove list function
+
 
 
 listContainer.addEventListener('click', function(e) {
