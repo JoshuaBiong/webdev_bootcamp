@@ -6,7 +6,9 @@ Web devi bootcamp by Anegla Yu
 -Able to learn deep on how web works
 git 
 Making a Todo List web app now with pure HTML, CSS and javascript with local web storage === DONE!!
-Making a dice game from Web dev bootcamp by Angela Yu
+Making a dice game from Web dev bootcamp by Angela Yu === DONE
+Making a drum kit from Web dev bootcamp by Angela Yu === DONE
+
  
 
 
