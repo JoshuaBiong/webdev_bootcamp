@@ -9,6 +9,7 @@ Making a Todo List web app now with pure HTML, CSS and javascript with local web
 Making a dice game from Web dev bootcamp by Angela Yu === DONE
 Making a drum kit from Web dev bootcamp by Angela Yu === DONE
 
+
  
 
 
@@ -19,3 +20,37 @@ Project Ideas as Web developer
             * Create admin account (Birthday celebrant)
             * Send a code to someone he-she wanted to invite
             * Access to the photos and videos after the invited gues inpute the code givin by the Birthday celebrant 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Scenario
+
+After few days that I process my resegnation as an Account Associate at a BPO company here I am now back in track to pursue my goal to be a web dev / mobile dev / software engineer 
+
+want to start from the scratch since I already have a foundation of the basic web dev such as html css and javascript and wanted to create an simple project such as:
+
+simple calculator 
+bmi calculator
+tiktaktoe
+snake game
+gym site
+portfolio
+
+ using pure html css and javascript and after that i am planning to proceed on learning react js by transforming those projects in a react framework
