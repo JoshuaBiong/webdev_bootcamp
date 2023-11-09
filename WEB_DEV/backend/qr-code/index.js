@@ -13,10 +13,10 @@ inquirer
     .then((answers) => {
         const url = answers.URL
         var qr_svg = qr.image(url);
-        qr_svg.pipe(fs.createWriteStream('qr_code.png'));
+        qr_svg.pipe(fs.createWriteStream('qr-code.png'));
 
         fs.writeFile("url.txt", url, (err) => {
-            if (err) throw err;
+            if (err) throw error;
             console.log("URL is saved!")
         })
 
