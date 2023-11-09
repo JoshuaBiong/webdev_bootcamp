@@ -1,0 +1,2 @@
+Hello from NodeJS
+Modefying things to read files using native NodeJS.
