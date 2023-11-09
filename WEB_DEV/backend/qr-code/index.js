@@ -15,6 +15,11 @@ inquirer
         var qr_svg = qr.image(url);
         qr_svg.pipe(fs.createWriteStream('qr_code.png'));
 
+        fs.writeFile("url.txt", url, (err) => {
+            if (err) throw err;
+            console.log("URL is saved!")
+        })
+
     }).catch((error) => {
         if (error.isTtyError) {
             // Prompt couldn't be rendered in the current environment
