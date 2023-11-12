@@ -54,3 +54,17 @@ gym site
 portfolio
 
  using pure html css and javascript and after that i am planning to proceed on learning react js by transforming those projects in a react framework
+
+
+
+
+#Why you didn't right a code?!!
+ .skipped Nov 12, 2023. 
+       -Manay election era and vacay!
+
+
+
+
+
+
+
